@@ -3,6 +3,6 @@ This analysis is related to the deep learning which follows human brain learning
 # Data Introduction
 This is open source data that any one can utilize from the following link.
 ## Objective
-- [First]
-- [Second]
+- First
+- Second
 
