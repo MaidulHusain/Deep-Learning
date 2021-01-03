@@ -6,4 +6,6 @@ This is open source data that any one can utilize from the following link.
 - First
 - Second
 #### Installation 
+### contributor info
+- maidul husain <mhusain@isrt.ac.bd>
 
