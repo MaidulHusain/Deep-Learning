@@ -7,7 +7,14 @@ This is open source data that any one can utilize from the following link.
 - Using these features trained ANN for predictive purpose, so that we can classified status of a the bank customer 
 
 ## Exploratory Data Analysis
-![](Images/Age.png)
+
+<p float="left">
+  <img src="Images/Age.png" width="300" />
+  <img src="Images/CreditScore.png" width="300" /> 
+  <img src="Images/EstimatedSalary.png" width="300" />
+  <img src="Images/gender.png" width="300" /> 
+  
+</p>
 
 #### Installation 
 ### contributor info
