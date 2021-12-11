@@ -13,8 +13,12 @@ This is open source data that any one can utilize from the following link.
   <img src="Images/CreditScore.png" width="300" /> 
   <img src="Images/EstimatedSalary.png" width="300" />
   <img src="Images/gender.png" width="300" /> 
+  <img src="Images/CreditCard.png" width="300" />
+  <img src="Images/Geography.png" width="300" /> 
+  <img src="Images/Tenure.png" width="300" />
+  <img src="Images/Balance.png" width="300" />
   
-</p>
+ </p>
 
 #### Installation 
 ### contributor info
