@@ -6,6 +6,9 @@ This is open source data that any one can utilize from the following link.
 ## Objective
 - Using these features trained ANN for predictive purpose, so that we can classified status of a the bank customer 
 
+## Exploratory Data Analysis
+
+
 #### Installation 
 ### contributor info
 - maidul husain <mhusain@isrt.ac.bd>
